@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#f5f2e9"/>
+  <circle cx="760" cy="142" r="115" fill="#99f6e4"/>
+  <circle cx="182" cy="475" r="138" fill="#fed7aa"/>
+  <rect x="286" y="156" width="388" height="288" rx="56" fill="#102c35"/>
+  <path d="m480 211 35 116 116 35-116 35-35 116-35-116-116-35 116-35 35-116Z" fill="#2dd4bf"/>
+  <circle cx="597" cy="395" r="22" fill="#fb923c"/>
+  <text x="480" y="518" fill="#102c35" font-family="system-ui,sans-serif" font-size="32" font-weight="700" text-anchor="middle">STEMmate activity</text>
+</svg>
